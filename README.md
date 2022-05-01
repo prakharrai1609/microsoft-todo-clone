@@ -1,4 +1,6 @@
 # Deadline-manager 📝
+![image](https://user-images.githubusercontent.com/58136319/166156236-19c54797-c87a-4d27-95bc-e46b6004c013.png)
+
 <li>The work manager app will never let you miss your deadlines!</li>
 <li>The system is made made in order to make sure you can keep a check of your pending and completed tasks so you never miss any deadlines again.</li>
 <li>It is implemented in Node.js & Express.js and uses Ejs templating for dynamic webpages!.</li>
