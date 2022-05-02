@@ -1,4 +1,4 @@
-# Deadline-manager 📝
+# Microsoft todo clone 📝
 ![image](https://user-images.githubusercontent.com/58136319/166156236-19c54797-c87a-4d27-95bc-e46b6004c013.png)
 
 <li>The work manager app will never let you miss your deadlines!</li>
